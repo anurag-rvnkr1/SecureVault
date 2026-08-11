@@ -18,8 +18,8 @@ Secure-Vault is an advanced Django-powered secure password generator and strengt
 
 ## 🏗️ Installation & Setup
 ### 1. Clone the Repository
-    git clone https://github.com/anurag-rvnkr1/Password-Generator-and-Strength-Checker-Django-Python-.git
-    cd Password-Generator-and-Strength-Checker-Django-Python--main
+    git clone https://github.com/anurag-rvnkr1/SecureVault.git
+    cd SecureVault-main
 ### 2. Set Up a Virtual Environment
     python -m venv venv
     On Mac:     source venv/bin/activate 
@@ -60,7 +60,6 @@ Contributing
 ## 📩 Connect With Me
 
 #### 📌 GitHub: Anurag Revankar
-#### 📌 Email: anurag.rvnkr@gmail.com
 
 🔐 SecureVault – Because Your Passwords Deserve the Best Security!
 
